@@ -140,6 +140,8 @@ github.com/bitly/go-simplejson v0.5.0/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngE
 github.com/bmatcuk/doublestar v1.1.1/go.mod h1:UD6OnuiIn0yFxxA2le/rnRU1G4RaI4UvFv1sNto9p6w=
 github.com/bogosj/tesla v1.0.2 h1:6i1RCjywaAt06ypeUWDIm/7vh609tZs/ubIInmVfyHA=
 github.com/bogosj/tesla v1.0.2/go.mod h1:LPbTjUSyUTPhTyi6fpybXnv2t/Hv0V8FX6+hyEIpL98=
+github.com/bogosj/tesla v1.0.3-0.20221201193522-172a5327855e h1:vvW+XfP1WOWNU5b0rY0JGpVekZAqVgZtp7d/LkR5Euw=
+github.com/bogosj/tesla v1.0.3-0.20221201193522-172a5327855e/go.mod h1:Rh1oHqNrnEVsKvdlOPELq4sLa6Swsuj+lbmZDBk1kfM=
 github.com/casbin/casbin/v2 v2.1.2/go.mod h1:YcPU1XXisHhLzuxH9coDNf2FbKpjGlbCg3n9yuLkIJQ=
 github.com/cenkalti/backoff v2.2.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/cenkalti/backoff/v4 v4.1.2/go.mod h1:scbssz8iZGpm3xbr14ovlUdkxfGXNInqkPWOWmG2CLw=
