@@ -14,7 +14,7 @@
     "@h2d2/shopicons": "^1.2.0",
     "@popperjs/core": "^2.11.5",
     "@vitejs/plugin-vue": "^3.0.1",
-    "axios": "^0.27.2",
+    "axios": "^1.2.1",
     "bootstrap": "^5.2.2",
     "canvas-confetti": "^1.4.0",
     "smoothscroll-polyfill": "^0.4.4",
